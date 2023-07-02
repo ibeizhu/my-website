@@ -1,0 +1,8 @@
+{
+  "label": "测试导航分组",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "第一次使用"
+  }
+}
